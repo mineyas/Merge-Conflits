@@ -1,3 +1,3 @@
 # Merge-Conflits
 
-- ✨New Challenge ✨
+- ✨New Challenge ✨ "LOCAL"
